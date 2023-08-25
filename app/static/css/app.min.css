@@ -1,0 +1,24 @@
+.grid{display:grid}
+
+div.ui.input.left.icon {
+    width: 100% !important;
+}
+.fixed-height-container img {
+  width: 100%;
+  height: 22rem;
+}
+input[type=text] {
+    text-align: center !important;
+}
+
+
+.header_title{
+  color: aliceblue;
+}
+
+/* More specific selector for input 
+.ui.input.left.icon input:hover {
+  cursor: pointer;
+}
+
+*/  
