@@ -87,9 +87,14 @@ ui <- function(id) {
         tabItems(
           
           tab_item( tabName = 'map',
-          # grid(
-            map$ui(ns('map'))    
-          # )
+          
+            map$ui(ns('map')),
+            tags$button(
+              id = "help-button",
+              icon("question"),
+              onclick = "App.showHelp()"
+            )
+          
           ),
           tab_item(
             tabName = 'table',

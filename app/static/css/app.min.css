@@ -1,5 +1,4 @@
-.grid{display:grid}
-
+#help-button{position:fixed;top:0;right:0;margin:0px}
 div.ui.input.left.icon {
     width: 100% !important;
 }
@@ -15,10 +14,3 @@ input[type=text] {
 .header_title{
   color: aliceblue;
 }
-
-/* More specific selector for input 
-.ui.input.left.icon input:hover {
-  cursor: pointer;
-}
-
-*/  
