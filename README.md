@@ -9,5 +9,5 @@ A shiny app for deer data exploration on map across globe
 Check out this awesome website: tags$a('Example.com', href="https://www.example.com", target="_blank")
 
 ```{R}
-Check out this awesome website: tags$a('Example.com', href="https://www.example.com", target="_blank")
+Check out this awesome website: <a href="https://www.example.com" target="_blank">Example.com</a>
 ```
