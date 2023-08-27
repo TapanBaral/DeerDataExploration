@@ -4,4 +4,4 @@
 A shiny app for deer data exploration on map across globe
 
 ## App avilability 
-[link to the live app](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data target="_blank")
+[link to the live app](https://odisha.shinyapps.io/deerdataexploration/){target="_blank"}
