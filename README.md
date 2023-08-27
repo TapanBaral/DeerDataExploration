@@ -1,4 +1,7 @@
-"# DeerDataExploration" 
+# Deer Data Exploration Shiny App
 
-tags$a("Dataset source", href = "https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data", target="_blank")
+## Overview
+A shiny app for deer data exploration on map across globe
+
+##App avilability 
 [link to the live app](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
